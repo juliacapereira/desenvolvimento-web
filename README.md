@@ -8,3 +8,5 @@
 <h4>-lab04: estruturação de um site utilizando html e css</h4>
 
 <h4>-lab16: criação de uma calculadora utilizando html, css e javascript</h4>
+
+<h4>-lab32: criação de um quiz personalizado utilizando html, css e javascript</h4>
