@@ -10,3 +10,5 @@
 <h4>-lab16: criação de uma calculadora utilizando html, css e javascript</h4>
 
 <h4>-lab32: criação de um quiz personalizado utilizando html, css e javascript</h4>
+
+<h4>-lab64: comando para rodar o servidor: node server.js. Para ir para o sobre digite "localhost:3000/sobre", para ir ao index "localhost:3000" e para ir ao 404, digite "localhost:3000/" e insira qualquer coisa após a barra.</h4>
