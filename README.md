@@ -1,5 +1,5 @@
 # desenvolvimento-web
-<h4>-engenharia de computação - puc campinas</h4>
+<h4>-atividades desenvolvidas na aula de desenvolvimento web</h4>
 
 <h4>-lab01: primeiro site criado em aula</h4>
 
