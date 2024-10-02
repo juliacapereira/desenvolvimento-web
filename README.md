@@ -14,5 +14,3 @@
 <h4>-lab64: comando para rodar o servidor: node server.js. Para ir para o sobre digite "localhost:3000/sobre", para ir ao index "localhost:3000" e para ir ao 404, digite "localhost:3000/" e insira qualquer coisa após a barra</h4>
 
 <h4>-lab128: criação de um formulário que seja capaz de captar informações básicas dos usuários, como nome, endereço de e-mail e uma mensagem e envie essas informações ao email de um dos integrantes do grupo do projeto integrador, nesse caso, chega no email da Maria Eduarda. (INTEGRANTES: JÚLIA CARRIEL PEREIRA, MARIA EDUARDA ANDRADE E PEDRO CARDOSO)</h4>
-<h4>-lab64: comando para rodar o servidor: node server.js</h4>
-<h4>Para ir para o sobre digite "localhost:3000/sobre", para ir ao index "localhost:3000" e para ir ao 404, digite "localhost:3000/" e insira qualquer coisa após a barra.</h4>
