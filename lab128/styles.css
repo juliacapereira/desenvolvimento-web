@@ -1,0 +1,72 @@
+#area {
+    font-family: 'Arial';
+    
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding:5px;
+    color:BLACK;
+    background-color:#f5a9bc;
+    font-family:Didot;
+
+}
+h6{
+    color:BLACK;
+    font-family: arial;
+}
+fieldset{
+    background-color:#F8E6E0;
+    padding-top:10px;
+}
+body{
+    background-image: url(https://i0.wp.com/dolcemorumbi.com/wp-content/uploads/2023/09/seis-estilos-maquiagem-1-frreepik-selfcare-dolce-morumbi_2_11zon.webp?fit=1500%2C1001&ssl=1);
+    background-size: cover;
+}  
+form {
+    width: 30em;
+    max-width: 90%;
+    margin: 0 auto;
+    padding-top:30px;
+  }
+div {
+    width: 30em;
+    max-width: 90%;
+    margin: 0 auto;
+}
+section {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    height:80vh;
+  }
+form{
+    font-family:arial;
+}
+form div{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+}
+form input, form textarea{
+    outline:unset;
+    padding: 20px;
+    min-width:300px;
+    border: 1px solid;
+    color:black;
+    border-radius: 20px;
+    font-family: arial;
+}
+form input:focus, form textarea:focus{
+    background-color: #f5a9f2;
+}
+form input[type=submit]{
+    background-color:black;
+    color: white;
+    cursor: pointer;
+    margin-top: 30px;
+}
+form label{
+    margin-left:20px;
+}
